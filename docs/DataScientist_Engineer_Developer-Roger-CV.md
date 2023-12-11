@@ -1,8 +1,27 @@
 # ROGER ISAAC BARRERA NAVARRETE
 
+<soy.roger.b+work@gmail.com> · (+52) 999 202 33 00 · [ribn (LinkedIn)](www.linkedin.com/in/ribn) · [RogerIBN (github.com)](https://github.com/RogerIBN)
+
 ---
 
-<soy.roger.b+work@gmail.com> · (+52) 999 202 33 00 · [ribn (LinkedIn)](www.linkedin.com/in/ribn) · [RogerIBN (github.com)](https://github.com/RogerIBN)
+- [ROGER ISAAC BARRERA NAVARRETE](#roger-isaac-barrera-navarrete)
+  - [DATA SCIENTIST – ENGINEER – DEVELOPER](#data-scientist--engineer--developer)
+  - [WORK EXPERIENCE](#work-experience)
+    - [IN-HOUSE IN BEDU](#in-house-in-bedu)
+      - [RESPONSIBILITIES](#responsibilities)
+      - [KEY ACCOMPLISHMENTS](#key-accomplishments)
+    - [DATA ANALYST INTERN IN AP LATAM](#data-analyst-intern-in-ap-latam)
+      - [RESPONSIBILITIES](#responsibilities-1)
+      - [KEY ACCOMPLISHMENTS](#key-accomplishments-1)
+  - [EDUCATION](#education)
+    - [ENGINEERING PHYSICS AT FACULTY OF ENGINEERING OF THE UNIVERSIDAD AUTÓNOMA DE YUCATÁN](#engineering-physics-at-faculty-of-engineering-of-the-universidad-autónoma-de-yucatán)
+  - [CERTIFICATES](#certificates)
+    - [MODERN CLOUD ENGINEERING](#modern-cloud-engineering)
+    - [AWS CLOUD PRACTITIONER ESSENTIALS](#aws-cloud-practitioner-essentials)
+  - [LANGUAGES](#languages)
+    - [ENGLISH (B2)](#english-b2)
+    - [SPANISH (NATIVE)](#spanish-native)
+  - [HOBBIES](#hobbies)
 
 ---
 
