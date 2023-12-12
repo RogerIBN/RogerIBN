@@ -15,7 +15,7 @@
       - [In-House Key Accomplishments](#in-house-key-accomplishments)
   - [Skills](#skills)
   - [Education](#education)
-    - [Engineering Physics At Faculty Of Engineering Of The Universidad Autónoma De Yucatán](#engineering-physics-at-faculty-of-engineering-of-the-universidad-autónoma-de-yucatán)
+    - [Engineering Physics at Faculty of Engineering of the Universidad Autónoma de Yucatán](#engineering-physics-at-faculty-of-engineering-of-the-universidad-autónoma-de-yucatán)
   - [Certificates](#certificates)
     - [Modern Cloud Engineering](#modern-cloud-engineering)
     - [Aws Cloud Practitioner Essentials](#aws-cloud-practitioner-essentials)
@@ -89,7 +89,7 @@ I extract and analyze the essential skills outlined in job postings by utilizing
 
 ## Education
 
-### Engineering Physics At Faculty Of Engineering Of The Universidad Autónoma De Yucatán
+### Engineering Physics at Faculty of Engineering of the Universidad Autónoma de Yucatán
 
 August 2016 – May 2023 \[Mérida, Yucatán\]\
 I participated in a Texas A&M University and UADY cultural exchange event with native English speakers. I focused on taking data science, computing and machine learning electives, especially deep learning for images.
